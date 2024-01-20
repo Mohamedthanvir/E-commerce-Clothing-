@@ -7,6 +7,15 @@
 
 ![Screenshot 2024-01-20 204011](https://github.com/Mohamedthanvir/E-commerce-Clothing-/assets/107427917/9c846d8a-8422-4137-9451-e3043e5f49dd)
 
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Customer Registration
+*   Customer Login
+*   Contact information
+*   Search Products
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Download the visualstudio code using following link</p>
